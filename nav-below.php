@@ -1,0 +1,1 @@
+<?php do_action('stellar_loop_after'); ?>

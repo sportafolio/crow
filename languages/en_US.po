@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stellar 500 Child Theme\n"
+"POT-Creation-Date: 2015-10-28 03:04+0100\n"
+"PO-Revision-Date: 2015-10-28 03:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: IgnitionDeck <hello@vartiousgaint.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;_e;gettext\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "Oops, This is awkward"
+msgstr ""
+
+#: 404.php:11
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:13
+msgid "Nothing found for the requested page. Try a search instead?"
+msgstr ""
+
+#: archive.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: archive.php:15
+msgid "Cateogry"
+msgstr ""
+
+#: archive.php:18
+msgid "Tagged"
+msgstr ""
+
+#: archive.php:21 archive.php:23 archive.php:25
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:27
+msgid "Post By"
+msgstr ""
+
+#: archive.php:30
+msgid "Archives"
+msgstr ""
+
+#: entry-meta.php:3
+msgid "Written by"
+msgstr ""
+
+#: entry-meta.php:10
+msgid "on"
+msgstr ""
+
+#: footer.php:22
+msgid "Theme 500 is a"
+msgstr ""
+
+#: footer.php:22
+msgid "Crowdfunding Theme for WordPress"
+msgstr ""
+
+#: footer.php:26
+msgid "GO TO"
+msgstr ""
+
+#: footer.php:28
+msgid "THE TOP"
+msgstr ""
+
+#: functions.php:116
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:127
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: home.php:8
+msgid "Blog"
+msgstr ""
+
+#: loop-levels.php:61
+msgid "Limit"
+msgstr ""
+
+#: loop-levels.php:61
+msgid "taken"
+msgstr ""
+
+#: nav-above-grid.php:21
+msgid "Sort By"
+msgstr ""
+
+#: nav-above-grid.php:23
+msgid "Amount Raised"
+msgstr ""
+
+#: nav-above-grid.php:24 project-hDeck.php:53
+msgid "Days Left"
+msgstr ""
+
+#: nav-above-grid.php:25
+msgid "Goal Amount"
+msgstr ""
+
+#: nav-above-grid.php:30
+msgid "Category"
+msgstr ""
+
+#: nav-above-grid.php:32
+msgid "All Categories"
+msgstr ""
+
+#: nav-above-template-grid.php:2
+msgid "Current Campaigns"
+msgstr ""
+
+#: nav-above-template-grid.php:3
+msgid "Choose your Awesome Template"
+msgstr ""
+
+#: project-author.php:16
+msgid "About the author"
+msgstr ""
+
+#: project-content.php:58
+msgid "Project Description"
+msgstr ""
+
+#: project-hDeck.php:42
+msgid "pledged of"
+msgstr ""
+
+#: project-hDeck.php:44
+msgid "goal"
+msgstr ""
+
+#: project-hDeck.php:49
+msgid "backers"
+msgstr ""
+
+#: project-hDeck.php:60
+msgid "Project Closed"
+msgstr ""
+
+#: project-hDeck.php:61
+msgid "You no longer can pledge on the project"
+msgstr ""
+
+#: project-hDeck.php:70 project-hDeck.php:78 project-sidebar.php:29
+msgid "Support Now"
+msgstr ""
+
+#: project-hDeck.php:72 project-hDeck.php:80
+msgid "Project Ends on"
+msgstr ""
+
+#: project-hDeck.php:90
+msgid "Share project"
+msgstr ""
+
+#: project-sidebar.php:21
+msgid "REWARDS"
+msgstr ""
+
+#: project-summary.php:43
+msgid "Successful"
+msgstr ""
+
+#: project-summary.php:47
+msgid "Unsuccessful"
+msgstr ""
+
+#: project-summary.php:76
+msgid "by"
+msgstr ""
+
+#: project-summary.php:93
+msgid "Funded"
+msgstr ""
+
+#: project-summary.php:97
+msgid "Days left"
+msgstr ""
+
+#: single.php:3
+msgid "Blog Post"
+msgstr ""
